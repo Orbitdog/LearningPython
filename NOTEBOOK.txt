@@ -1,0 +1,1 @@
+1. Default on Tools/Terminator [x-terminal-emulator -e "/bin/sh %c"]
